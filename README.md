@@ -34,6 +34,8 @@ CM3D2\Sybaris\GameData内に適当なフォルダを作成し、.blendファイ�
     <dd>もう食べちゃったから無理ー。</dd>
     <dt>テクスチャが雑。</dt>
     <dd>どうか頑張って書き換えて欲しい。</dd>
+    <dt>VTuber機能で使いたい。</dt>
+    <dd>どうぞ。</dd>
 </dl>
 
 ![作例](https://github.com/pikepikeid/mod_item_corndog/blob/master/ex_corndog.png)
